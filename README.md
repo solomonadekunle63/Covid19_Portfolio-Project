@@ -20,7 +20,4 @@ This Project seeks to answer a couple of business questions ranging from "Easy",
 * Write a query that determines the customer that has spent the most on music for each country. Write a query that returns the country along with the top customer and how much they spent. For countries where the top amount spent is shared, provide all customers who spent this amount
 
 #### Below is an Image of the database schema
-![Alt text](Music_Store_SQL_Portfolio_Projects
-/Music Store Analysis-Questions.pdf
-)
-
+![MusicDatabaseSchema](https://github.com/solomonadekunle63/Music_Store_SQL_Portfolio_Projects/assets/127578867/5ce186ee-7ee1-4239-971b-6ee4265f60f5)
